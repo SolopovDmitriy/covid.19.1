@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\users\repose1\project2\project4\project4\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\users\repose1\project2\project4\project4\source.cpp(63): warning C4566: character represented by universal-character-name '\u2265' cannot be represented in the current code page (1251)
+  Project4.vcxproj -> D:\Users\repose1\Project2\Project4\Debug\Project4.exe
